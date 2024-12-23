@@ -12,30 +12,6 @@ A simple and efficient task management application built with **React** and styl
 - **Local Storage Support:** Tasks are saved in the browser's Local Storage to ensure persistence across sessions.
 - **Responsive Design:** Optimized for all screen sizes with Tailwind CSS.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/chittaranjan27/Todos-in-react.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd Todos-in-react
-   ```
-
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-4. Start the development server:
-   ```bash
-   npm start
-   ```
-
-The application will be available at `http://localhost:3000`.
-
 ## Usage
 
 1. Open the application in your browser.
