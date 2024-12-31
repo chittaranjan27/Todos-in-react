@@ -13,7 +13,7 @@ A simple and efficient task management application built with **React** and styl
 - **Responsive Design:** Optimized for all screen sizes with Tailwind CSS.
 
 
-The application will be available at `http://localhost:3000`.
+The application will be available at `[http://localhost:5173]`.
 
 ## Usage
 
@@ -43,14 +43,6 @@ Todos-in-react
 ├── package.json
 └── README.md
 ```
-
-## Future Enhancements
-
-- Add due dates and priorities for tasks.
-- Enable categorization of tasks.
-- Implement user authentication for personalized task management.
-- Add drag-and-drop functionality for task reordering.
-
 
 Created by **Chitta Ranjan**. Feel free to reach out via:
 
